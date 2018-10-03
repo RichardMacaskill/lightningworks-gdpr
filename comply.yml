@@ -1,0 +1,8 @@
+name: LightningWorks Software Ltd
+filePrefix: LightningWorks
+tickets:
+  github:
+    repo: https://github.com/RichardMacaskill/lightningworks-gdpr
+    token: baf5500f001350ce82948742740daec852c9e94f
+    username: RichardMacaskill
+approvedBranch: ""
