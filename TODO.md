@@ -3,10 +3,10 @@
 High-level TODO created by [comply](https://github.com/strongdm/comply)
 
 ## Initialization Phase (hours)
-- [ ] Add project to source control
-- [ ] Verify `comply build` generates valid output
-- [ ] Create ticketing credentials, configure via `comply.yml`
-- [ ] Verify `comply sync` executes without errors
+- [X] Add project to source control
+- [X] Verify `comply build` generates valid output
+- [X] Create ticketing credentials, configure via `comply.yml`
+- [X] Verify `comply sync` executes without errors
 
 ## Authoring Phase (weeks)
 - [ ] Validate standards/, pruning as necessary
